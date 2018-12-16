@@ -1,2 +1,2 @@
 # tdd-practice
-This is a test sign
+This repo was created for learning tdd with python
